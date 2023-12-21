@@ -8,7 +8,7 @@
     ../../../../common/gpu/nvidia/prime.nix
     ../../../../common/pc/laptop
     ../../../../common/pc/laptop/ssd
-    ../edid
+    # ../edid
   ];
 
   hardware = {
@@ -25,3 +25,4 @@
     };
   };
 }
+
